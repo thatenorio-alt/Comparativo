@@ -1,0 +1,177 @@
+Contrato;Frente de Servico;Tipo de Obra;Previsao de Inicio;Status Projeto Executivo - Linear;Status Projeto Executivo - Hidromecanico;Status Projeto Executivo - Eletrica;Status Projeto Executivo - Civil;Status Entrada de Energia;Coordenacao;Material Edital ;Diametro Edital (mm);Metodo Edital;Extensao Edital (m);Material;Diametro Executivo (mm);Metodo Executivo;Extensao Executivo (m);Vazao Edital (l/s);Altura Manometrica Edital;Potencia Edital;Economias Contempladas;Escopo
+Pacote 34 - 01066/25;CT 6 A1;Linear;01/07/2026;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;500;MND;800.70;;;;;;;;1000;TR
+Pacote 34 - 01066/25;CT 6 A2;Linear;01/08/2026;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;500;VCA;1160.25;;;;;;;;250;TR
+Pacote 34 - 01066/25;CT 6 A2;Linear;01/11/2026;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;500;MND;547.98;;;;;;;;300;TR
+Pacote 34 - 01066/25;CT Colinas de Cotia;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;300;VCA;1301.00;;;;;;;;580;TR
+Pacote 34 - 01066/25;CT Colinas de Cotia;Linear;25/07/2026;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;911.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo I;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;600;VCA;359.80;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo I;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;700;VCA;1261.80;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo I;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;700;MND;1379.30;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo I (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;563.30;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo I (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;16.90;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo I (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;400;MND;3.50;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo II;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;600;MND;2003.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo II (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;300;VCA;37.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo II (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;7.90;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo II (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;400;MND;6.60;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo III;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;300;VCA;405.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo III;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;261.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Cotia A - Tramo III (Interlig.);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;12.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Ribeirao Moinho Velho;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;681.57;;;;;;;;;TR
+Pacote 34 - 01066/25;Remanej. CT Moinho Velho 2;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;300;VCA;66.50;;;;;;;;;TR
+Pacote 34 - 01066/25;Remanej. CT Moinho Velho 2;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;558.20;;;;;;;;;TR
+Pacote 34 - 01066/25;Remanej. CT Moinho Velho 2 (IN);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;13.00;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Santa Monica;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;300;VCA;265.20;;;;;;;;;TR
+Pacote 34 - 01066/25;CT Santa Monica;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;1004.95;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Jardim Ipe;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;1855.95;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Jardim Ipe;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;400;MND;148.50;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Parque Alexandre;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;392.72;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Parque Alexandre;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;300;VCA;392.23;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Parque Alexandre;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Ferro Fundido;300;A‚reo;27.17;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Parque Alexandre;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;302.54;;;;;;;;;TR
+Pacote 34 - 01066/25;Rede Rua Kumamoto;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;687.40;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L22 e L23;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;17.50;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L22 e L23;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;Concreto;300;MND;116.00;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L129B;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;5.50;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L73;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;4.60;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L211;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;108.00;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L110A;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;7.08;;;;;;;;;TR
+Pacote 34 - 01066/25;Interligacao L118;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PVC;200;VCA;2.60;;;;;;;;;TR
+Pacote 34 - 01066/25;LR Isaac Pires;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PEAD;630;VCA;385.03;;;;;;;;;TR
+Pacote 34 - 01066/25;LR Etiopia;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;A‡o Carbono;700;VCA;1482.92;;;;;;;;;TR
+Pacote 34 - 01066/25;LR Etiopia;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;A‡o Carbono;700;MND;70.00;;;;;;;;;TR
+Pacote 34 - 01066/25;LR Mirante 1;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PEAD;90;VCA;194.66;;;;;;;;;TR
+Pacote 34 - 01066/25;LR Brumado;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PEAD;90;VCA;337.17;;;;;;;;;TR
+Pacote 34 - 01066/25;LR EEE-04;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;PEAD;500;MND;1216.17;;;;;;;;;TR
+Pacote 34 - 01066/25;EEE Isaac Pires;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;;;;;;;;;368.52;23.00;180.00;;TR
+Pacote 34 - 01066/25;EEE Etiopia;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;;;;;;;;;443.91;41.00;420.00;;TR
+Pacote 34 - 01066/25;EEE Mirante 1;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;;;;;;;;;3.00;23.00;5.00;;TR
+Pacote 34 - 01066/25;EEE Brumado;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;;;;;;;;;3.00;38.00;7.00;;TR
+Pacote 34 - 01066/25;EEE-04;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMO1;;;;;;;;;64.92;76.90;167.63;;TR
+Pacote 28 - 01089/25;Interceptor Abreus B;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;503.40;;;;;;;;;TR
+Pacote 28 - 01089/25;Interceptor Abreus B;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;1.882.75;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 1 (Interceptor);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;3.92;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 2 (Interceptor);Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;15.31;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim das Colinas;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;279.00;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim das Colinas;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;380.49;;;;;;;;;TR
+Pacote 28 - 01089/25;CT JU 10.12;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;70.00;;;;;;;;;TR
+Pacote 28 - 01089/25;CT JU 10.12;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;312.70;;;;;;;;;TR
+Pacote 28 - 01089/25;CT JU 10.12 IN 1 e IN 2;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;15.00;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim Luciana;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;91.58;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim Luciana;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;20.67;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim Luciana IN 1;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;3.30;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim Luciana IN 2;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;53.90;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Jardim Luciana IN 2;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;6.80;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Eucaliptos;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;503.45;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Eucaliptos;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;274.50;;;;;;;;;TR
+Pacote 28 - 01089/25;CT Eucaliptos IN 1, 2 e 3;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;30.20;;;;;;;;;TR
+Pacote 28 - 01089/25;CTS Parque Sao Rafael;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;373.10;;;;;;;;;TR
+Pacote 28 - 01089/25;CTS Parque Sao Rafael;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;350.80;;;;;;;;;TR
+Pacote 28 - 01089/25;CTS Jardim San Diego;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;865.00;;;;;;;;;TR
+Pacote 28 - 01089/25;RC Jardim das Colinas;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;1.903.67;;;;;;;;;TR
+Pacote 28 - 01089/25;RC Parque Sao Rafael;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;1.728.13;;;;;;;;;TR
+Pacote 28 - 01089/25;RC Laranjeiras I;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;136.00;;;;;;;;;TR
+Pacote 28 - 01089/25;RC Laranjeiras II;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;1.144.50;;;;;;;;;TR
+Pacote 28 - 01089/25;RC Nova Caieiras IV;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;2.554.80;;;;;;;;;TR
+Pacote 28 - 01089/25;RC Nova Caieiras IV;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;30.00;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 11;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;11.80;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 11;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;2.50;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 11;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;55.00;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 22;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;5.00;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 22;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;61.05;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 22;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;50.00;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 29;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;36.85;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 29;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;67.85;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao Isolada 29;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Concreto;300;;338.15;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao SN40;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;23.13;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao SN36;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;300;;15.57;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5938;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;2.73;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5939;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;251.53;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5939;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Ferro Fundido;200;;6.84;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5935;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;5.99;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5925;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;152.21;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5926;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;4.74;;;;;;;;;TR
+Pacote 28 - 01089/25;Interligacao 5945;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;129.90;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Jardim das Colinas;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;90;;841.73;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Jardim San Diego;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;90;;744.37;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Parque Sao Rafael;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;110;;457.91;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Bimbati;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;90;;360.00;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Dartora;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;75;;250.00;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Laranjeiras I;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Ferro Fundido;100;;315.41;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Laranjeiras II;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Ferro Fundido;100;;451.64;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Nova Caieiras IV;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;Ferro Fundido;80;;436.50;;;;;;;;;TR
+Pacote 28 - 01089/25;LR Nova Caieiras IV;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;4.00;;;;;;;;;TR
+Pacote 28 - 01089/25;LR SN40;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;90;;161.71;;;;;;;;;TR
+Pacote 28 - 01089/25;LR SN40;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;45.72;;;;;;;;;TR
+Pacote 28 - 01089/25;LR 5926;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;90;;157.85;;;;;;;;;TR
+Pacote 28 - 01089/25;LR 5926;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;69.67;;;;;;;;;TR
+Pacote 28 - 01089/25;LR 5938;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;160;;267.14;;;;;;;;;TR
+Pacote 28 - 01089/25;LR 5938;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;24.81;;;;;;;;;TR
+Pacote 28 - 01089/25;LR 5935;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PEAD;90;;65.34;;;;;;;;;TR
+Pacote 28 - 01089/25;LR 5935;Linear;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;EMN2;PVC;200;;2.00;;;;;;;;;TR
+Pacote 28 - 01089/25;EEE Jardim das Colinas;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;3;66.15;10.13;;TR
+Pacote 28 - 01089/25;EEE Jardim San Diego;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;3;85.94;10.13;;TR
+Pacote 28 - 01089/25;EEE Parque Sao Rafael;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;8.5;89.26;20.27;;TR
+Pacote 28 - 01089/25;EEE Bimbati;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;5;34.09;15;;TR
+Pacote 28 - 01089/25;EEE Dartora;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;5;19.4;7.5;;TR
+Pacote 28 - 01089/25;EEE Laranjeiras I;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;9;40;12.5;;TR
+Pacote 28 - 01089/25;EEE Laranjeiras II;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;7;50;10;;TR
+Pacote 28 - 01089/25;EEE Nova Caieiras IV;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;2.5;25.34;6.53;;TR
+Pacote 28 - 01089/25;EEE SN40;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;1.7;26.35;7.5;;TR
+Pacote 28 - 01089/25;EEE 5926;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;2.88;6.93;3;;TR
+Pacote 28 - 01089/25;EEE 5938;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;15.18;7.37;5;;TR
+Pacote 28 - 01089/25;EEE 5935;Localizada;;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;Nao elaborado;;;;;;;;;;5.8;15.14;5;;TR
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;

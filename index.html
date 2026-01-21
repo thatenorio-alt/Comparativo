@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard de Controle de Projetos</title>
+
+  <!-- Estilo -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Plugin de rótulos -->
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+</head>
+
+<body>
+
+  <!-- CABEÇALHO -->
+  <header>
+    <h1>Controle de Projetos</h1>
+
+    <div id="filtros">
+      <label for="filtroContrato"><strong>Contrato:</strong></label>
+      <select id="filtroContrato">
+        <option value="">Todos os Contratos</option>
+      </select>
+
+      <button onclick="limparFiltros()">Limpar filtros</button>
+    </div>
+  </header>
+
+  <!-- KPIs -->
+  <section class="kpis">
+    <div class="card azul">
+      <h3>Frentes de Serviço</h3>
+      <p id="kpiFrentes">0</p>
+    </div>
+
+    <div class="card azul">
+      <h3>Extensão Edital (m)</h3>
+      <p id="kpiEdital">0</p>
+    </div>
+
+    <div class="card cinza">
+      <h3>Extensão Executivo (m)</h3>
+      <p id="kpiExec">0</p>
+    </div>
+
+    <div class="card vermelho">
+      <h3>Diferença Edital × Executivo</h3>
+      <p id="kpiDif">0</p>
+    </div>
+  </section>
+
+  <!-- GRÁFICO EDITAL X EXECUTIVO -->
+  <section class="graficos">
+    <h2>Edital × Executivo — Visão Geral</h2>
+    <canvas id="graficoComparativo"></canvas>
+  </section>
+
+  <!-- GRÁFICO MÉTODO X DIÂMETRO -->
+  <section class="graficos">
+    <h2>Método Construtivo × Diâmetro — Edital × Executivo</h2>
+    <canvas id="graficoMetodoDiametro"></canvas>
+  </section>
+
+  <!-- SCRIPT PRINCIPAL -->
+  <script src="script.js"></script>
+
+</body>
+</html>
