@@ -75,13 +75,15 @@ function atualizarKPIs(base) {
   const dif = exec - edital;
   const perc = edital ? (dif / edital) * 100 : 0;
 
-  document.getElementById('kpiFrentes').innerText = base.length;
+  // Contagem original: cada linha = 1 frente
+  const frentes = base.length;
+
+  document.getElementById('kpiFrentes').innerText = frentes;
   document.getElementById('kpiEdital').innerText = formatar(edital);
   document.getElementById('kpiExec').innerText = formatar(exec);
   document.getElementById('kpiDif').innerText =
     `${formatar(dif)} (${perc.toFixed(1)}%)`;
 }
-
 /* =========================================================
    GRÁFICO GERAL
 ========================================================= */
@@ -219,10 +221,35 @@ function soma(base, campo) {
 }
 
 function parseNumero(v) {
-  if (!v || v === '-') return NaN;
-  return parseFloat(v.replace('.', '').replace(',', '.'));
-}
+  if (v === null || v === undefined || v === '' || v === '-') return NaN;
 
+  // Se já for número (Excel exporta assim às vezes)
+  if (typeof v === 'number') return v;
+
+  v = v.toString().trim();
+
+  // pt-BR clássico: 10.204,97
+  if (/^\d{1,3}(\.\d{3})+,\d+$/.test(v)) {
+    return parseFloat(v.replace(/\./g, '').replace(',', '.'));
+  }
+
+  // milhar sem decimal: 19.409 / 931.580
+  if (/^\d{1,3}(\.\d{3})+$/.test(v)) {
+    return parseFloat(v.replace(/\./g, ''));
+  }
+
+  // decimal com ponto: 1234.56
+  if (/^\d+\.\d+$/.test(v)) {
+    return parseFloat(v);
+  }
+
+  // decimal com vírgula: 1234,56
+  if (/^\d+,\d+$/.test(v)) {
+    return parseFloat(v.replace(',', '.'));
+  }
+
+  return NaN;
+}
 function formatar(v) {
   return v.toLocaleString('pt-BR', { maximumFractionDigits: 2 });
 }
