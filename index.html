@@ -22,18 +22,23 @@
 
     <div id="filtros">
       <label for="filtroContrato"><strong>Contrato:</strong></label>
-      <select id="filtroContrato">
-        <option value="">Todos os Contratos</option>
-      </select>
+<select id="filtroContrato">
+  <option value="">Todos os Contratos</option>
+</select>
 
-      <button onclick="limparFiltros()">Limpar filtros</button>
+<label for="filtroFrente"><strong>Frente:</strong></label>
+<select id="filtroFrente">
+  <option value="">Todas as Frentes</option>
+</select>
+<button onclick="limparFiltros()">Limpar filtros</button>
+<button onclick="exportarCSV()">Exportar CSV</button>
     </div>
   </header>
 
   <!-- KPIs -->
   <section class="kpis">
     <div class="card azul">
-      <h3>Frentes de Serviço</h3>
+      <h3>Frentes de Servico</h3>
       <p id="kpiFrentes">0</p>
     </div>
 
